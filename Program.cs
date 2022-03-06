@@ -6,7 +6,7 @@ namespace LogicalPorgramming22
     {
         static void Main (string[]arg)
         {
-           OddOrEven.NumOddOrEven();
+            LargestNumber.FindTheLargestNumber();
         }
     }
        
